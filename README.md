@@ -32,7 +32,7 @@ This is my 8th project and also I built with grid again. This project is a littl
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/MgMyatHtayKhant/-Bento-grid-main)
+- Solution URL: [Solution URL here](https://github.com/MgMyatHtayKhant/bento-grid-main)
 - Live Site URL: [Live site URL here](https://frontend-bento.netlify.app/)
 
 ## My process
